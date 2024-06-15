@@ -1,5 +1,5 @@
 # Fxxk_Nvidia
 
-![Screenshots 01](Screenshots/01.png)
+<img src="Screenshots/01.png" width="100%">
 
-![Screenshots 02](Screenshots/02.png)
+<img src="Screenshots/02.png" width="100%">
